@@ -1,0 +1,8 @@
+//
+// Created by daniel-andrade-martins on 13/07/2026.
+//
+
+#ifndef CHESS_MOVEMENTCOORDINATOR_HPP
+#define CHESS_MOVEMENTCOORDINATOR_HPP
+
+#endif //CHESS_MOVEMENTCOORDINATOR_HPP
